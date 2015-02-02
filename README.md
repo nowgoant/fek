@@ -1,7 +1,7 @@
 
 前端代码规范
 ------ 
- - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/#project-naming)
+ - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/)
 
 前端开发IDE
 -----
