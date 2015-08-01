@@ -48,6 +48,17 @@
   - [Front-End-Dev](https://github.com/dypsilon/frontend-dev-bookmarks) 大就“任性”
   - [FrontEnd-stuff](https://github.com/moklick/frontend-stuff) 
 
+
+各大公司前端或UED官网
+---
+  - [百度FEX](http://fex.baidu.com/)
+  - [阿里UED](http://www.aliued.com/)
+  - [淘宝UED](http://ued.taobao.org/blog/)
+  - [腾讯isux](http://isux.tencent.com/)
+  - [腾讯cdc](http://cdc.tencent.com/)
+  - [去哪儿UED](http://ued.qunar.com/)
+  - [其他](http://www.douban.com/group/topic/52385245/)
+
 其他
 ----
   - [Awesome](https://github.com/sindresorhus/awesome) 收集了平台（Platforms),编程语言（Programming languages)，计算机科学（Computer science)，大数据（Big Data）等等技能
