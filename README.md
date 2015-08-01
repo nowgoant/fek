@@ -15,6 +15,9 @@
  - 代码格式工具[Tag](https://packagecontrol.io/packages/Tag)只适用于HTML/XML;[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)见闻知意了，依赖于Node
  - [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN) ，你懂得
 
+2.[webstorm](http://www.jetbrains.com/webstorm/)
+
+3.[Atom](https://atom.io/)
 
 [现代前端工具](http://tooling.github.io/book-of-modern-frontend-tooling/)（Modern frontend tooling）
 ---
