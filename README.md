@@ -5,7 +5,7 @@
 
 前端开发IDE
 -----
-1.Sublime
+1.[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)
 插件：
 
  - [Package Control](https://packagecontrol.io/packages/Package%20Control) 插件包管理（安装，查询，卸载）
