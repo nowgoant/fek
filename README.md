@@ -49,7 +49,7 @@
   - [FrontEnd-stuff](https://github.com/moklick/frontend-stuff) 
 
 
-各大公司前端或UED官网
+公司前端或UED官网
 ---
   - [百度FEX](http://fex.baidu.com/)
   - [阿里UED](http://www.aliued.com/)
