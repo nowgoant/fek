@@ -19,6 +19,7 @@
 2.[webstorm](http://www.jetbrains.com/webstorm/)
 
 3.[Atom](https://atom.io/)
+ - [awesome-atom](https://github.com/mehcode/awesome-atom) A curated list of delightful Atom packages and resources.
 
 [现代前端工具](http://tooling.github.io/book-of-modern-frontend-tooling/)（Modern frontend tooling）
 ---
