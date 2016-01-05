@@ -14,6 +14,7 @@
  - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)借助[ SublimeLinter 编写高质量的 JavaScript & CSS 代码](http://www.cnblogs.com/lhb25/archive/2013/05/02/sublimelinter-for-js-css-coding.html)需要借助于[Node](http://nodejs.org/)和[jshint](http://jshint.com/docs/#options)
  - 代码格式工具[Tag](https://packagecontrol.io/packages/Tag)只适用于HTML/XML;[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)见闻知意了，依赖于Node
  - [Tortoise​SVN](https://packagecontrol.io/packages/TortoiseSVN) ，你懂得
+ - [Material Theme](https://github.com/equinusocio/material-theme) Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
 2.[webstorm](http://www.jetbrains.com/webstorm/)
 
@@ -33,6 +34,112 @@
   - [F.I.S](http://fis.baidu.com/) 前端集成解决方案,百度FEX团队贡献，[视频教程（有惊喜）](http://www.imooc.com/learn/220)，相对Grunt和Gulp容易入手，访问没有限制
   - [Spirit](http://alloyteam.github.io/Spirit/)腾讯移动Web整体解决方案，腾讯Alloyteam团队贡献
   -
+
+ 
+# CSS
+1.Animate
+
+ ***国内篇***
+
+- [Css3动画属性总汇](http://css3lib.alloyteam.com/uilib/animation/demo1/index.html)
+- [CSS3 UI 库](http://css3lib.alloyteam.com/): Tencent Alloyteam
+
+***国外篇***
+
+- [Animate.css](https://github.com/daneden/animate.css):A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [bounce.js](https://github.com/tictail/bounce.js): Create beautiful CSS3 powered animations in no time
+- [magic](https://github.com/miniMAC/magic) CSS3 Animations with special effects
+- [font-awesome-animation](https://github.com/l-lin/font-awesome-animation) Simple animations using FontAwesome and some CSS3
+
+
+2.FlexBox
+ - [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+ - [flexibility](https://github.com/10up/flexibility?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_23) Use flexbox while supporting older Internet Explorers
+ - [FLEXBOX FROGGY](http://flexboxfroggy.com/?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_20) 用游戏学习 CSS Flexbox
+
+3.Loading集合
+ - [SpinKit](https://github.com/tobiasahlin/SpinKit)
+ - [css-loaders](https://github.com/lukehaas/css-loaders)
+ - [loaders](https://github.com/ConnorAtherton/loaders.css)
+ - [loading-svg](https://github.com/jxnblk/loading)
+ 
+4.Framework 
+ - [Materialize](https://github.com/Dogfalo/materialize) Materialize, a CSS Framework based on Material Design
+ 
+
+# JS
+1.Scroll
+  - [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) Easy scroll animations for web and mobile browsers. 
+  - [scroller](https://github.com/zynga/scroller) Accelerated panning and zooming for HTML and Canvas
+  - 
+  
+2.Chart
+  - [awesome-d3](https://github.com/wbkd/awesome-d3)
+  - [Circular canvas loader](http://codepen.io/pimskie/pen/rtijd)
+  - [DwtHr](http://codepen.io/ZetaHunter/pen/DwtHr)
+  
+3.Drag and drop
+  - [dragula](https://github.com/bevacqua/dragula) Drag and drop so simple it hurts 
+
+4.animations
+  - [dynamics.js](https://github.com/michaelvillar/dynamics.js) Javascript library to create physics-based CSS animations
+
+5.剪切板
+  - [clipboard](https://github.com/zenorocha/clipboard.js) Modern copy to clipboard. No Flash. Just 2kb
+
+6.金融
+  - [accounting.js](https://github.com/openexchangerates/accounting.js) A lightweight JavaScript library for number, money and currency formatting
+  - [card](https://github.com/jessepollak/card) 银行卡格式化
+
+7.图片
+  - [剪切](https://github.com/jwagner/smartcrop.js/) 剪切图片中主要内容
+  
+8.SVG
+  - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) The JavaScript library for modern SVG graphics.
+  - [svg.js](http://svgjs.com/) A lightweight library for manipulating and animating SVG
+  - [awesome-svg](https://github.com/willianjusten/awesome-svg)
+  
+9.滑动组件
+  - [iSlider](https://github.com/peunzhang/iSlider) Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
+  - [fullpage](https://github.com/peunzhang/fullpage) For desktop(ie5.5+) or mobile webApp without jQuery,create full screen pages fast and simple.
+
+10.上传
+  - [uppie](https://github.com/silverwind/uppie) Cross-browser directory uploads made easy
+
+11.WebSQL
+  - [WebSqlSync](https://github.com/orbitaloop/WebSqlSync) Synchronize a local WebSQL DB to a server
+  
+
+12.正则表达式
+  - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) JavaScript Regular expressions made easy
+  
+
+# XSS
+  - [js-xss](https://github.com/leizongmin/js-xss) 根据白名单过滤HTML(防止XSS攻击)
+ 
+
+# 前端单元测试工具
+ - [totoro](https://github.com/fengmk2/totoro) 简单稳定的前端单元测试工具
+ - [PhantomJS](http://phantomjs.org/)支持web而不需浏览器支持，其快速，原生支持各种Web标准：DOM 处理, CSS 选择器, JSON, Canvas, 和SVG。PhantomJS可以用于页面自动化，网络监测，网页截屏，以及无界面测试等,[更多...](http://www.woiweb.net/phantomjs-quick-use-tutorials.html)
+ - [Mocha](https://mochacn.github.io/)是一个基于node.js和浏览器的集合各种特性的Javascript测试框架，并且可以让异步测试也变的简单和有趣
+
+# 在线图书/学校
+ - [FreeCodeCamp](https://github.com/FreeCodeCamp/freecodecamp) The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+ - [free-programming-books-zh](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md): 汇集了各种编程语言
+ - 
+ 
+# GitHub
+  - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+
+# Frontend Boilerplate 
+  - [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate
+  - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) :fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.
+
+# Front-end-Web-Development-Interview-Question
+ - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集
+ - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+ - [ont-end-questions-to-the-interview-stage](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage) 最全前端开发面试问题及答案整理
+ 
 
 前端知识自我修养
 ---
