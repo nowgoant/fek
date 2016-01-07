@@ -134,7 +134,9 @@
 
 12.正则表达式
   - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) JavaScript Regular expressions made easy
-  
+ 
+13.框架和库
+  - [React](https://github.com/nowgoant/fek/tree/master/react)
 
 # XSS
   - [js-xss](https://github.com/leizongmin/js-xss) 根据白名单过滤HTML(防止XSS攻击)
