@@ -1,7 +1,7 @@
 React awesome
 ------
- - [awesome-react](https://github.com/enaqx/awesome-react) A collection of awesome things regarding React ecosystem.
- - [awesome-react-native](https://github.com/jondot/awesome-react-native) An "awesome" type curated list of React Native components, news, tools, and learning material
+ - [Awesome-React](https://github.com/enaqx/awesome-react) A collection of awesome things regarding React ecosystem.
+ - [Awesome-React-Native](https://github.com/jondot/awesome-react-native) An "awesome" type curated list of React Native components, news, tools, and learning material
  - [React-Native学习指南](https://github.com/ele828/react-native-guide) React Native指南汇集了各类react-native学习资源、开源App和组件
 
 ＃王沛老师的React专栏文章
