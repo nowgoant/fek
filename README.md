@@ -56,6 +56,7 @@
   - [Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) node插件集合
   - [Front-End-Dev](https://github.com/dypsilon/frontend-dev-bookmarks) 大就“任性”
   - [FrontEnd-stuff](https://github.com/moklick/frontend-stuff) 
+  - [awesome](https://github.com/sindresorhus/awesome)
 
 
 # CSS
