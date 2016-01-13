@@ -6,6 +6,7 @@ React awesome
  - [React-Native学习指南](https://github.com/ele828/react-native-guide) React Native指南汇集了各类react-native学习资源、开源App和组件
  - [Material-ui](https://github.com/callemall/material-ui) React Components that Implement Google's Material Design.
  - [React-canvas](https://github.com/Flipboard/react-canvas) High performance <canvas> rendering for React components
+ - [Redux](https://github.com/rackt/redux) Predictable state container for JavaScript apps http://redux.js.org
 
 ＃王沛老师的React专栏文章
 ------ 
