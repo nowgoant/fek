@@ -10,7 +10,6 @@
 ### 前端开发IDE
  1.[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)
 插件：
-
  - [Package Control](https://packagecontrol.io/packages/Package%20Control) 插件包管理（安装，查询，卸载）
  - [Emmet](https://packagecontrol.io/packages/Emmet) 支持[zen Coding](http://www.zjgsq.com/1062.html)快速编写HTML/CSS
  - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) sidebar的扩展，增加（新建，新文件夹，打开当期文件位置等等）
@@ -25,8 +24,7 @@
 3.[webstorm](http://www.jetbrains.com/webstorm/)
 
 ### [现代前端工具](http://tooling.github.io/book-of-modern-frontend-tooling/)
----
-**国外篇**
+ **国外篇**
 
  - [Yeoman](http://yeoman.io/)：现代WebApp脚手架工具，带有很多generator生成器，比如：generator-webapp,generator-mobile移动优先，[视频教程](http://www.imooc.com/learn/30)[老湿很牛](http://www.imooc.com/learn/30) 
  - [Grunt](http://www.gruntjs.net/)：javasript的build工具，开发常用的例如压缩（minification）、编译、单元测试、linting等;
@@ -163,7 +161,7 @@
   - [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate
   - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) :fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.
 
-# Front-end-Web-Development-Interview-Question
+### Front-end-Web-Development-Interview-Question
  - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集
  - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
  - [ont-end-questions-to-the-interview-stage](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage) 最全前端开发面试问题及答案整理
