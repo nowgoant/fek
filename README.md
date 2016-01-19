@@ -43,7 +43,7 @@
   -
 
  
-前端知识自我修养
+### 前端知识自我修养
 ---
  **国内篇**
  
@@ -64,7 +64,7 @@
   - [awesome](https://github.com/sindresorhus/awesome) 一个世界
 
 
-# CSS
+### CSS
 1.Animate
 
  ***国内篇***
@@ -95,7 +95,7 @@
  - [Materialize](https://github.com/Dogfalo/materialize) Materialize, a CSS Framework based on Material Design
  
 
-# JS
+### JS
 1.Scroll
   - [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) Easy scroll animations for web and mobile browsers. 
   - [scroller](https://github.com/zynga/scroller) Accelerated panning and zooming for HTML and Canvas
@@ -144,11 +144,11 @@
 13.框架和库
   - [React](https://github.com/nowgoant/fek/tree/master/react)
 
-# XSS
+### XSS
   - [js-xss](https://github.com/leizongmin/js-xss) 根据白名单过滤HTML(防止XSS攻击)
  
 
-# 前端单元测试工具
+### 前端单元测试工具
  - [totoro](https://github.com/fengmk2/totoro) 简单稳定的前端单元测试工具
  - [PhantomJS](http://phantomjs.org/)支持web而不需浏览器支持，其快速，原生支持各种Web标准：DOM 处理, CSS 选择器, JSON, Canvas, 和SVG。PhantomJS可以用于页面自动化，网络监测，网页截屏，以及无界面测试等,[更多...](http://www.woiweb.net/phantomjs-quick-use-tutorials.html)
  - [Mocha](https://mochacn.github.io/)是一个基于node.js和浏览器的集合各种特性的Javascript测试框架，并且可以让异步测试也变的简单和有趣
@@ -158,10 +158,10 @@
  - [free-programming-books-zh](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md): 汇集了各种编程语言
  - 
  
-# GitHub
+### GitHub
   - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
-# Frontend Boilerplate 
+### Frontend Boilerplate 
   - [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate
   - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) :fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.
 
@@ -170,7 +170,7 @@
  - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
  - [ont-end-questions-to-the-interview-stage](https://github.com/AutumnsWind/Front-end-questions-to-the-interview-stage) 最全前端开发面试问题及答案整理
  
-公司前端或UED官网
+### UED官网
 ---
   - [百度FEX](http://fex.baidu.com/)
   - [阿里UED](http://www.aliued.com/)
@@ -180,7 +180,7 @@
   - [去哪儿UED](http://ued.qunar.com/)
   - [其他](http://www.douban.com/group/topic/52385245/)
 
-其他
+### 其他
 ----
   - [Awesome](https://github.com/sindresorhus/awesome) 收集了平台（Platforms),编程语言（Programming languages)，计算机科学（Computer science)，大数据（Big Data）等等技能
   - [HTML,CSS and JS最佳实践](https://github.com/bendc/frontend-guidelines)
