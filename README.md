@@ -5,7 +5,6 @@
 - [前端知识自我修养](#前端知识自我修养)
 
 ### 前端代码规范
----
  - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/)腾讯AlloyTeam团队贡献
 
 ### 前端开发IDE
