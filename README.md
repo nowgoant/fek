@@ -5,12 +5,10 @@
 - [前端知识自我修养](#前端知识自我修养)
 
 ### 前端代码规范
--
  - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/)腾讯AlloyTeam团队贡献
 
 ### 前端开发IDE
--
-1.[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)
+ 1.[Sublime 3](http://www.sublimetext.com/3),[视频教程](http://www.imooc.com/index/search?words=sublime)
 插件：
 
  - [Package Control](https://packagecontrol.io/packages/Package%20Control) 插件包管理（安装，查询，卸载）
