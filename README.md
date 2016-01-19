@@ -1,5 +1,5 @@
 - [前端代码规范](#前端代码规范)
-- [前端开发IDE](#前端开发IDE)
+- [前端开发IDE](#前端开发ide)
 - [现代前端工具](#现代前端工具)
 
 ### 前端代码规范
@@ -24,7 +24,7 @@
  
 3.[webstorm](http://www.jetbrains.com/webstorm/)
 
-### [现代前端工具](http://tooling.github.io/book-of-modern-frontend-tooling/)（Modern frontend tooling）
+### 现代前端工具 [book-of-modern-frontend-tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)（Modern frontend tooling）
 ---
 **国外篇**
 
