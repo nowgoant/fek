@@ -7,6 +7,7 @@
 - [JS](#js)
 - [XSS](#xss)
 - [Frontend Boilerplate](#frontend-boilerplate)
+- [Web性能优化](#web性能优化)
 - [面试](#front-end-web-development-interview-question)
 - [UED官网](#ued官网)
 - [其他](#其他)
@@ -159,6 +160,9 @@
  - [FreeCodeCamp](https://github.com/FreeCodeCamp/freecodecamp) The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
  - [free-programming-books-zh](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md): 汇集了各种编程语言
  - 
+
+### Web性能优化
+  - [前端性能优化](http://www.imooc.com/learn/580)
  
 ### GitHub
   - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
