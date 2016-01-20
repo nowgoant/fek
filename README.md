@@ -162,7 +162,7 @@
  - 
 
 ### Web性能优化
-  - [前端性能优化](http://www.imooc.com/learn/580)
+  - [前端性能优化-基础知识认知](http://www.imooc.com/learn/580)
  
 ### GitHub
   - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
