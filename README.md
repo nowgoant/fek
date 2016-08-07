@@ -122,7 +122,7 @@
   - [accounting.js](https://github.com/openexchangerates/accounting.js) A lightweight JavaScript library for number, money and currency formatting
   - [card](https://github.com/jessepollak/card) 银行卡格式化
 
-7.图片
+7.图片处理
   - [剪切](https://github.com/jwagner/smartcrop.js/) 剪切图片中主要内容
   
 8.SVG
@@ -133,6 +133,7 @@
 9.滑动组件
   - [iSlider](https://github.com/peunzhang/iSlider) Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
   - [fullpage](https://github.com/peunzhang/fullpage) For desktop(ie5.5+) or mobile webApp without jQuery,create full screen pages fast and simple.
+  - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)Full featured JavaScript image & video gallery. No dependencies
 
 10.上传
   - [uppie](https://github.com/silverwind/uppie) Cross-browser directory uploads made easy
