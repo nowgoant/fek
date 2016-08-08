@@ -10,6 +10,7 @@
 - [Web性能优化](#web性能优化)
 - [面试](#front-end-web-development-interview-question)
 - [UED官网](#ued官网)
+- [机器学习](#机器学习)
 - [其他](#其他)
 - [各种坑](https://github.com/nowgoant/fek/tree/master/keng)
 
@@ -195,7 +196,12 @@
   - [腾讯cdc](http://cdc.tencent.com/)
   - [去哪儿UED](http://ued.qunar.com/)
   - [其他](http://www.douban.com/group/topic/52385245/)
+  - 
 
+### 机器学习
+---
+  - [awesome-machine-learning-cn] (https://github.com/jobbole/awesome-machine-learning-cn)机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+  - 
 ### 其他
 ----
   - [Awesome](https://github.com/sindresorhus/awesome) 收集了平台（Platforms),编程语言（Programming languages)，计算机科学（Computer science)，大数据（Big Data）等等技能
