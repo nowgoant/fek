@@ -152,6 +152,7 @@
  
 13.框架和库
   - [React](https://github.com/nowgoant/fek/tree/master/react)
+  - [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 14.JSON
   - [lave](https://github.com/jed/lave) Why not just use JSON.stringify?
