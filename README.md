@@ -129,6 +129,7 @@
 
 7.图片处理
   - [剪切](https://github.com/jwagner/smartcrop.js/) 剪切图片中主要内容
+  - [grade](https://github.com/benhowdle89/grade) 提取图片主题色，并生成过渡的渐变
   
 8.SVG
   - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) The JavaScript library for modern SVG graphics.
