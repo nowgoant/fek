@@ -137,9 +137,10 @@
   - [awesome-svg](https://github.com/willianjusten/awesome-svg)
   
 9.滑动组件
+  - [Swiper](https://github.com/nolimits4web/Swiper) Most modern mobile touch slider with hardware accelerated transitions
   - [iSlider](https://github.com/peunzhang/iSlider) Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App
   - [fullpage](https://github.com/peunzhang/fullpage) For desktop(ie5.5+) or mobile webApp without jQuery,create full screen pages fast and simple.
-  - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)Full featured JavaScript image & video gallery. No dependencies
+  - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)Full featured JavaScript image & video gallery. No dependencies  
 
 10.上传
   - [uppie](https://github.com/silverwind/uppie) Cross-browser directory uploads made easy
