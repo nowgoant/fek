@@ -5,6 +5,7 @@
 - [前端知识自我修养](#前端知识自我修养)
 - [CSS](#css)
 - [JS](#js)
+- [Node使用工具](#nodeUtility)
 - [XSS](#xss)
 - [Frontend Boilerplate](#frontend-boilerplate)
 - [Web性能优化](#web性能优化)
@@ -159,6 +160,9 @@
 14.JSON
   - [lave](https://github.com/jed/lave) Why not just use JSON.stringify?
 
+### NodeUtility
+ - [query-string](https://github.com/sindresorhus/query-string) Parse and stringify URL query strings
+ - [lodash](https://github.com/lodash/lodash)https://github.com/lodash/lodash
 
 ### XSS
   - [js-xss](https://github.com/leizongmin/js-xss) 根据白名单过滤HTML(防止XSS攻击)
