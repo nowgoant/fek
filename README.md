@@ -5,7 +5,7 @@
 - [前端知识自我修养](#前端知识自我修养)
 - [CSS](#css)
 - [JS](#js)
-- [Node使用工具](#nodeUtility)
+- [Node使用工具](#NodeUtility)
 - [XSS](#xss)
 - [Frontend Boilerplate](#frontend-boilerplate)
 - [Web性能优化](#web性能优化)
@@ -131,7 +131,8 @@
 7.图片处理
   - [剪切](https://github.com/jwagner/smartcrop.js/) 剪切图片中主要内容
   - [grade](https://github.com/benhowdle89/grade) 提取图片主题色，并生成过渡的渐变
-  
+  - [guetzli](https://github.com/google/guetzli) Google，Perceptual JPEG encoder
+
 8.SVG
   - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) The JavaScript library for modern SVG graphics.
   - [svg.js](http://svgjs.com/) A lightweight library for manipulating and animating SVG
