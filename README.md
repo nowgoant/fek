@@ -128,6 +128,7 @@
   - [card](https://github.com/jessepollak/card) 银行卡格式化
   - [cleave.js](https://github.com/nosir/cleave.js) 银行卡、时间、数字、手机等格式化，支持CommonJS / AMD和React组件
   - [Numeral-js](https://github.com/adamwdraper/Numeral-js) A javascript library for formatting and manipulating numbers.
+  - [mathjs](https://github.com/josdejong/mathjs) An extensive math library for JavaScript and Node.js
 
 7.图片处理
   - [剪切](https://github.com/jwagner/smartcrop.js/) 剪切图片中主要内容
