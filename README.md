@@ -5,7 +5,7 @@
 - [前端知识自我修养](#前端知识自我修养)
 - [CSS](#css)
 - [JS](#js)
-- [动画](#js)
+- [动画](#动画)
 - [Node使用工具](#NodeUtility)
 - [XSS](#xss)
 - [Frontend Boilerplate](#frontend-boilerplate)
