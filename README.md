@@ -87,6 +87,7 @@
 - [bounce.js](https://github.com/tictail/bounce.js): Create beautiful CSS3 powered animations in no time
 - [magic](https://github.com/miniMAC/magic) CSS3 Animations with special effects
 - [font-awesome-animation](https://github.com/l-lin/font-awesome-animation) Simple animations using FontAwesome and some CSS3
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) A curated collection of useful CSS snippets
 
 
 2.FlexBox
