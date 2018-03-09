@@ -167,7 +167,8 @@
   - [lave](https://github.com/jed/lave) Why not just use JSON.stringify?
   
 15.用户行为跟踪
-  - [fingerprintJS](https://github.com/Valve/fingerprintJS) Anonymous browser fingerprint 
+  
+  - [fingerprintJS](https://github.com/Valve/fingerprintJS) Anonymous browser fingerprint 
   
 
 
