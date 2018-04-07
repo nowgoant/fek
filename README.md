@@ -170,6 +170,10 @@
   
   - [fingerprintJS](https://github.com/Valve/fingerprintJS) Anonymous browser fingerprint 
   
+16.用户指引
+  
+  - [driver.js](https://github.com/kamranahmedse/driver.js) A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  - [intro.js](https://github.com/usablica/intro.js)A better way for new feature introduction and step-by-step users guide for your website and project. 
 
 
 ### 动画
