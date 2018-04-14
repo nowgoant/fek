@@ -1,3 +1,5 @@
+本文章弃用；新版地址 https://nowgoant.gitbooks.io/fek-awesome/content/
+
 ## 导航
 - [前端代码规范](#前端代码规范)
 - [前端开发IDE](#前端开发ide)
