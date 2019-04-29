@@ -1,4 +1,4 @@
-本文章弃用；新版地址 https://nowgoant.gitbooks.io/fek-awesome/content/
+本文章弃用；新版地址 https://github.com/nowgoant/fek-awesome
 
 ## 导航
 - [前端代码规范](#前端代码规范)
